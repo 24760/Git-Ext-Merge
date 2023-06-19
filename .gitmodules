@@ -1,0 +1,9 @@
+[submodule "நீட்டிப்புகள்"]
+	path = நீட்டிப்புகள்
+	url = https://github.com/UniThamizh/PortGitExtensions.git
+[submodule "அறிவிலி"]
+	path = அறிவிலி
+	url = https://github.com/UniThamizh/PortGit.git
+[submodule "சாளரஒன்றிணை"]
+	path = சாளரஒன்றிணை
+	url = https://github.com/UniThamizh/PortWinMerge.git
