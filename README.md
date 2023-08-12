@@ -6,8 +6,8 @@
 - git submodule add https://github.com/247i/WinMerge64.git சாளரஒன்றிணை64
 - git submodule add https://github.com/247i/WinMergeARM64.git சாளரஒன்றிணைகை64
 
-
-
+# To get all files in submodules
+git submodule update --init --recursive
 
 Then git commit all the files added
 
