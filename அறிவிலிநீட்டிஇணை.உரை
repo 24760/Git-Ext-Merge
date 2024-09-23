@@ -5,6 +5,7 @@
 - git submodule add https://github.com/247i/WinMerge32.git சாளரஒன்றிணை32
 - git submodule add https://github.com/247i/WinMerge64.git சாளரஒன்றிணை64
 - git submodule add https://github.com/247i/WinMergeARM64.git சாளரஒன்றிணைகை64
+- git submodule add https://github.com/247i/GitHubDesktop மையதிரைப்பலகம்
 
 # To get all files in submodules
 git submodule update --init --recursive
