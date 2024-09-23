@@ -4,3 +4,6 @@
 [submodule "அறிவிலி"]
 	path = அறிவிலி
 	url = https://github.com/UniThamizh/PortGit.git
+[submodule "சாளரஒன்றிணை"]
+	path = சாளரஒன்றிணை
+	url = https://github.com/247i/WinMerge.git
