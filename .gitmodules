@@ -14,3 +14,6 @@
 [submodule "சாளரஒன்றிணை64"]
 	path = சாளரஒன்றிணை64
 	url = https://github.com/247i/WinMerge64.git
+[submodule "சாளரஒன்றிணை"]
+	path = சாளரஒன்றிணை
+	url = https://github.com/247i/WinMerge.git
