@@ -1,9 +1,9 @@
-# அறிவிலி-நீட்டிப்புகள்-சாளரஒன்றிணை
+# -- -- 
 
-- git submodule add https://github.com/247i/Git அறிவிலி
-- git submodule add https://github.com/247i/GitExt.git நீட்டிப்புகள்
-- git submodule add https://github.com/247i/WinMerge.git சாளரஒன்றிணை
-- git submodule add https://github.com/247i/GitHubDesktop மையதிரைப்பலகம்
+- git submodule add https://github.com/247i/Git 
+- git submodule add https://github.com/247i/GitExt.git 
+- git submodule add https://github.com/247i/WinMerge.git 
+- git submodule add https://github.com/247i/GitHubDesktop  
 
 # To get all files in submodules
 git submodule update --init --recursive
