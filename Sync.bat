@@ -6,7 +6,7 @@ git clone https://github.com/247i/PuTTY
 git clone https://github.com/247i/WinMerge
 git clone https://github.com/247i/WinSCP
 git clone https://github.com/247i/SourceGit
-git clone https://github.com/247i/sumatrapdf
+git clone https://github.com/247i/SumatraPDF
 git clone https://github.com/247i/Thonny
 
 :: Get the VSCode portable into vscode folder manually
