@@ -3,6 +3,7 @@ git clone https://github.com/247i/7z
 git clone https://github.com/247i/Everything
 git clone https://github.com/247i/Git
 git clone https://github.com/247i/GitExt
+git clone https://github.com/247i/NotePadPP
 git clone https://github.com/247i/PuTTY
 git clone https://github.com/247i/WinMerge
 git clone https://github.com/247i/WinSCP
