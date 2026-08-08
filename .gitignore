@@ -1,4 +1,3 @@
-.net/
 .net07x64/
 .net07x86/
 .net08x64/
@@ -9,6 +8,10 @@
 .net10x86/
 .net11x64/
 .net11x86/
+7zx64/
+7zx86/
+7zetc/
+7zSDK/
 7z/
 Azhagi/
 Everything/
